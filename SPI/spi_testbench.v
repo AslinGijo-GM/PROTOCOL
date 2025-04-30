@@ -60,3 +60,6 @@ module spi_testbench #(parameter DWIDTH = 8);
          
     
 endmodule
+
+
+// https://edaplayground.com/x/XWcx
