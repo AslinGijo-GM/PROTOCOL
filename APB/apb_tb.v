@@ -1,5 +1,7 @@
 `timescale 1ns / 1ps
 
+//  https://edaplayground.com/x/RjB6
+
 module apb_tb #(parameter WIDTH = 8);
     
     reg pclk    ;
